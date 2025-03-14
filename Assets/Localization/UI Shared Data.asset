@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 43f30efddc1add74f878da5ec307461b
+  m_Entries:
+  - m_Id: 48497741824
+    m_Key: _playButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1376129175552
+    m_Key: _settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1379807580160
+    m_Key: _exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3040382865408
+    m_Key: _lang
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1345162641718378520
+  references:
+    version: 2
+    RefIds:
+    - rid: 1345162641718378520
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741941415608

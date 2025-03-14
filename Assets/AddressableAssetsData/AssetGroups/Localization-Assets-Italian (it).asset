@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Italian (it)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Italian (it)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0367c2cc9235a7b48914a8ec568a83d6
+  m_SerializeEntries:
+  - m_GUID: 7e5b42a7b0cd1af4db951d1065fdffdd
+    m_Address: image-removebg-preview (10)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 77aa93dfaafd18140bacd9327f8ae41d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 330a372d419366747ac6c8b27ab923db, type: 2}
+    - {fileID: 11400000, guid: 0f4aa8e85266c9940b2a7946b6807d61, type: 2}
